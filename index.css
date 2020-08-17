@@ -33,8 +33,6 @@ header {
 }
 
 header ul {
-    /*display: table;*/
-    /*table-layout: fixed;*/
     display: flex;
     width: 960px;
 }
@@ -58,7 +56,6 @@ header ul li {
     border-left: solid 1px #d3d3d3;
     padding-bottom: 0;
     width: 20%;
-    /*display: table-cell;*/
     border-bottom: none;
 }
 
@@ -273,20 +270,15 @@ footer {
 
 footer div {
     margin:0 auto;
-    /*display: table;*/
-    /*table-layout: fixed;*/
     width: 583px;
 }
 
 footer div ul {
     display: flex;
-    /*display: table;*/
-    /*table-layout: fixed;*/
     width: 100%;
 }
 
 footer div ul li {
-    /*display: table-cell;*/
     width: 25%;
     text-align: center;
 }

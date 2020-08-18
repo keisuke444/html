@@ -325,13 +325,13 @@ a {
 }
 
 .arrow_img {
-    background-image: url(../image/icon/arrow.png);
+    background-image: url(../images/icon/arrow.png);
     background-repeat: no-repeat;
     background-position: left 1px bottom 9px;
 }
 
 .dish_img {
-    background-image: url(../image/icon/dish.png);
+    background-image: url(../images/icon/dish.png);
     background-repeat: no-repeat;
     background-position:left 10px center;
     padding:3px 0px 2px 30px;
@@ -339,7 +339,7 @@ a {
 }
 
 .article_arrow_img {
-    background-image: url(../image/icon/arrow.png);
+    background-image: url(../images/icon/arrow.png);
     background-repeat: no-repeat;
     background-position: left 1px bottom 6px;
 }
